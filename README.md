@@ -58,3 +58,4 @@ plt.show()
 
 
 ### Result:
+The implementation of Cluster and Visitor Segmentation for Navigation patterns in Python has been executed successfully.
